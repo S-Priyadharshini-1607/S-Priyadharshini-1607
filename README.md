@@ -2,7 +2,7 @@
 <h3 align="center">AI & Data Science Student | ML Enthusiast | Power BI Analyst</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=435&lines=AI+%26+Data+Science+Undergrad;Power+BI+%7C+Python+%7C+ML+Intern;Building+Smart+Solutions+with+Data" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Undergrad;Power+BI+%7C+Python+%7C+ML+Intern;Building+Smart+Solutions+with+Data" alt="Typing SVG" />
 </p>
 
 ---
@@ -52,4 +52,3 @@
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
