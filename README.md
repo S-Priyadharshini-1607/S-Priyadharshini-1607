@@ -40,16 +40,6 @@
 
 ---
 
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S-Priyadharshini-1607&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-Priyadharshini-1607&theme=tokyonight&hide_border=true" width="48%"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Priyadharshini-1607&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</div>
-
----
-
 ### 🌐 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/priya-dharshini-8692482a6" target="_blank">
