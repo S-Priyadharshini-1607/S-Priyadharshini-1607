@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Priyadharshini S</h1>
+<h1 align="center">Hi 👋, I'm Priyadharshini S</h1>Add commentMore actions
 <h3 align="center">AI & Data Science Student | ML Enthusiast | Power BI Analyst</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FACC15&center=true&vCenter=true&width=500&lines=Crafting+data-driven+solutions+🚀;Power+BI+%7C+ML+%7C+React+%7C+Python;Let's+connect+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=435&lines=AI+%26+Data+Science+Undergrad;Power+BI+%7C+Python+%7C+ML+Intern;Building+Smart+Solutions+with+Data" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,57 +10,60 @@
 ### 🧠 About Me
 - 🎓 B.Tech in Artificial Intelligence & Data Science (2022–2026)  
 - 🏫 Arunai Engineering College | CGPA: **8.8/10**  
-- 🛠️ Passionate about building smart solutions using AI  
-- 🌱 Currently learning: React, Generative AI, LLMs  
-- 💬 Ask me about: Python, Machine Learning, Power BI  
-- 📫 Reach me at: **priyadharshinip375@gmail.com**
+- 🛠️ Currently building: AI-powered dashboards & web apps  
+- 🌱 Learning: React, LLMs, Generative AI  
+- 💬 Ask me about: Python, ML, Power BI, AI tools  
+- 📫 Reach me: **priyadharshinip375@gmail.com**
 
 ---
 
-### ⚙️ Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,html,css,react,powerbi,git,github,vscode,linux" />
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,html,css,react,git,github,vscode,powershell,linux,figma" />
 </p>
 
 ---
 
-### 🎯 Certifications
-- 💡 **AI** – IBM, Infosys, Great Learning, Intel  
-- 📊 **Power BI** – Cognifyz Internship  
+### 🏆 Certifications
+- 📜 **AI** – IBM | Infosys | Intel | Great Learning  
+- 📊 **Power BI** – Cognifyz Technologies Internship  
+- 🔒 **Cybersecurity** – Hebesec Technologies  
 - 🧠 **Generative AI** – Intel @ CIIC, Vandalur  
-- 🔐 **Cybersecurity** – Hebesec Technologies  
 
 ---
 
-### 🚀 Internships & Projects
-- 🔬 **Intel Unnati Training (Jul–Aug 2024)**  
-  *ML/DL hands-on training with real-world data problems*
-
-- 📈 **Cognifyz Power BI Intern (May–Jun 2025)**  
-  *Designed dashboards and built insightful business reports*
-
-- 💻 **Personal Projects**  
-  *Portfolio site, ML apps, and interactive data visualizations*
+### 💼 Internships & Training
+- **Intel Unnati Industrial Training** – ML/DL with hands-on projects  
+- **Cognifyz Technologies** – Power BI Intern (May–June 2025)  
+- **Personal Projects** – Building portfolio, analytics dashboards, and ML apps
 
 ---
 
-### 🌐 Connect With Me
+### 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=S-Priyadharshini-1607&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-Priyadharshini-1607&theme=tokyonight&hide_border=true" width="48%"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Priyadharshini-1607&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+</div>
 
-<p align="center">
+---
+
+### 🌐 Connect with Me
+<p align="left">
   <a href="https://www.linkedin.com/in/priya-dharshini-8692482a6" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:priyadharshinip375@gmail.com" target="_blank">
+  <a href="mailto:priyadharshinip375@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/S-Priyadharshini-1607" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/S-Priyadharshini-1607">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/S-Priyadharshini-1607/S-Priyadharshini-1607/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://komarev.com/ghpvc/?username=S-Priyadharshini-1607&label=Profile+Views&color=blue" alt="Profile Views" />
 </p>
