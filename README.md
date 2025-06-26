@@ -53,8 +53,3 @@
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=S-Priyadharshini-1607&label=Profile+Views&color=blue" alt="Profile Views" />
-</p>
