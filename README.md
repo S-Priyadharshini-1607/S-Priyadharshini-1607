@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priyadharshini S</h1>Add commentMore actions
+<h1 align="center">Hi 👋, I'm Priyadharshini S</h1>
 <h3 align="center">AI & Data Science Student | ML Enthusiast | Power BI Analyst</h3>
 
 <p align="center">
@@ -35,7 +35,8 @@
 ### 💼 Internships & Training
 - **Intel Unnati Industrial Training** – ML/DL with hands-on projects  
 - **Cognifyz Technologies** – Power BI Intern (May–June 2025)  
-- **Personal Projects** – Building portfolio, analytics dashboards, and ML apps
+- **Personal Projects**:  
+  - [AI Waste Segregation System](https://github.com/S-Priyadharshini-1607/AI-Waste-Segregation-System) – AI-based smart waste classification system using image processing and machine learning.
 
 ---
 
